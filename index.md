@@ -1,4 +1,6 @@
-### Happy Birthday Shraddha!
+![Image](https://acegif.com/wp-content/gif/confetti-4.gif)
+
+### Happy Birthday, Shraddha!
 
 Wait, no, wrong occasion. 
 
@@ -16,36 +18,16 @@ I swear that I ordered this literally a day after I got the assignment.
 
 ![Image](https://smartland.com/blog/wp-content/uploads/2019/12/Cat-1.jpg)
 
-### Markdown
+But it is okay. We will prevail. And this is where the elephant comes in.
 
-[Link](https://github.com/sysemenova/shraddhagift/edit/gh-pages/index.md)
+See, he's a very, very good boy. Like, insanely. He will sit exactly where you want him to sit and not move. No, it's not because he's lazy, but because he's a very good boy. Not only that, but he ~~has a slightly crunchy ass~~ is a very soft boy you can hug to your heart's desire. And he's an elephant. Need I say more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In any case, and on a more serious note, you'll get your *true* gift after winter break. It'll probably still be a bit too cold to wear it then, but it'll be in your closet ready to burst out the instant the weather is more favorable. So be excited, for it'll be simply superb.
 
-```markdown
-Syntax highlighted code block
+I hope your final go as well as possible; I hope you get lots of sleep before each test; I hope winter break is filled with good food and rest; I hope the month off from whatever 250 was will let you be ready to tackle whatever spring semester throws at you.
 
-# Header 1
-## Header 2
-### Header 3
+So, in conclusion,
 
-- Bulleted
-- List
+## Have a good time ✨
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysemenova/shraddhagift/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://c.tenor.com/DxMIq9-tS5YAAAAM/milk-and-mocha-bear-couple.gif)
