@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+### Happy Birthday Shraddha!
 
-You can use the [editor on GitHub](https://github.com/sysemenova/shraddhagift/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wait, no, wrong occasion. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Happy Holidays, Shraddha!
+
+There, that's better. 
+
+Now, you may be curious as to why your gift is an elephant. You may also be curious as to why you've been shoved off to a website instead of an actual gift.
+
+Here's the explanation:
+
+![Image](https://media.discordapp.net/attachments/842747224098078813/919627213060595762/Screenshot_20211212-112706.png?width=714&height=621)
+
+I swear that I ordered this literally a day after I got the assignment.
+
+![Image](https://smartland.com/blog/wp-content/uploads/2019/12/Cat-1.jpg)
 
 ### Markdown
 
